@@ -1,1 +1,7 @@
 *.swp
+*.aux
+*.lof
+*.log
+*.lot
+*.tdo
+*.toc

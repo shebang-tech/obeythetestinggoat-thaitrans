@@ -12,3 +12,13 @@ as the pdf version I use to translate or not.  There could be some
 differences.
 
 We use LaTeX to generate the Thai translation of this book.
+
+# How to make the book
+
+Run:
+
+```
+xelatex obeythetestinggoat.tex && xelatex obeythetestinggoat.tex && xelatex obeythetestinggoat.tex
+```
+
+to generate obeythetestinggoat.pdf pdf file.
